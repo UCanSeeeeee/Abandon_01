@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (5.6.1)
+  - LookinServer (1.0.6)
+  - SDWebImage (5.12.5):
+    - SDWebImage/Core (= 5.12.5)
+  - SDWebImage/Core (5.12.5)
+
+DEPENDENCIES:
+  - Alamofire
+  - LookinServer
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - LookinServer
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: 87bd8c952f9a4454320fce00d9cc3de57bcadaf5
+  LookinServer: 18155b1e4a08213c236a1dd6b7ca52328a70a1e3
+  SDWebImage: 0905f1b7760fc8ac4198cae0036600d67478751e
+
+PODFILE CHECKSUM: e2186100f13c3ad4c6d87115c59dd0ab567b2c90
+
+COCOAPODS: 1.11.3
